@@ -18,7 +18,7 @@ public class data {
 		String url="jdbc:mysql://localhost:3306/Hotel";
 		Connection connexion=null;
 		try {
-			connexion=DriverManager.getConnection(url,"root","DOHA1412");
+			connexion=DriverManager.getConnection(url,"root","root");
 			}
 		catch(SQLException e) {
 			System.out.print("error de connexion");
