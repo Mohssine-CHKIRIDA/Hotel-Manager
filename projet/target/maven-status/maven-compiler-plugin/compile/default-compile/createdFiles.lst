@@ -1,0 +1,11 @@
+projet\Paiement.class
+projet\DateSwitchException.class
+projet\PaiementNotCompleted.class
+projet\data.class
+projet\Client.class
+projet\ChambreIndisponibleException.class
+projet\Interface.class
+projet\Chambre.class
+projet\test.class
+projet\Hotel.class
+projet\Reservation.class

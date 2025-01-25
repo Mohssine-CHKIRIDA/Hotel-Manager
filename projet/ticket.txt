@@ -1,0 +1,19 @@
+=================================
+          Hôtel MC           
+        Ticket de Paiement        
+=================================
+Date : 16/01/2025
+Client : Albert Einstein
+Email : albert.einstein@example.com
+---------------------------------
+Détails de la Réservation :
+Chambre : 101
+Prix/nuit : 150.0 EUR
+Du : 16/01/2025
+Au : 17/01/2025
+---------------------------------
+Montant payé : 150.0 EUR
+Méthode : Carte Bancaire
+Statut : effectué
+=================================
+Merci pour votre visite !
